@@ -1,9 +1,12 @@
-#!/d/work/python/PyCharmTest
 import LPTHWEx4
+import LPTHWEx5
 
-LPTHWEx4.run_cars()
+#LPTHWEx4.run_cars()
 
-# dummy edit @ 12:18PM
+print LPTHWEx5.convertInchesToCentimeters(3)
+
+
+
 
 
 
